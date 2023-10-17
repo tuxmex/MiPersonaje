@@ -16,4 +16,4 @@
 
 ## Imagen del Prototipo
 
-file:///home/tux/vaca.png![imagen](https://github.com/tuxmex/MiPersonaje/assets/36056832/6a21bdaa-1bd8-4afd-896c-3c8c824d0844)
+![imagen](https://github.com/tuxmex/MiPersonaje/assets/36056832/6a21bdaa-1bd8-4afd-896c-3c8c824d0844)
