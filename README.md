@@ -17,3 +17,7 @@
 ## Imagen del Prototipo
 
 ![imagen](https://github.com/tuxmex/MiPersonaje/assets/36056832/6a21bdaa-1bd8-4afd-896c-3c8c824d0844)
+
+
+![imagen](https://github.com/tuxmex/MiPersonaje/assets/36056832/37e24958-c6b8-4e67-8fd6-8749d094c087)
+
